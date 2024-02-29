@@ -8,5 +8,5 @@ def main():
 	plt.title("Resource Control")
 	plt.show()
 
-if __name__ == "__main__":
+while __name__ == "__main__":
 	main()
